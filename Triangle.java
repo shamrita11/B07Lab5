@@ -1,4 +1,4 @@
-package B07lab5;
+package B07Lab5;
 
 public class Triangle {
 	Point A;
